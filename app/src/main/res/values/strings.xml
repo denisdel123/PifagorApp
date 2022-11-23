@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PifagorApp</string>
+    <string name="title">Вычислить С</string>
+    <string name="result_info">Результат:&#160;</string>
+    <string name="input_A">введите значение \"А\"</string>
+    <string name="input_B">введите значение \"Б\"</string>
+    <string name="result">результат</string>
+    <string name="error">поле должно быть заполнено</string>
+    <string name="todo">TODO</string>
+</resources>
